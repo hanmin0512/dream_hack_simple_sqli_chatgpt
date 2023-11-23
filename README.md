@@ -1,0 +1,2 @@
+# dream_hack_simple_sqli_chatgpt
+dreamhack simple_sqli_chatgpt 문제풀이
